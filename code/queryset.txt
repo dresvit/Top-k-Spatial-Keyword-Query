@@ -1,0 +1,101 @@
+50
+1526 522
+3 potato mushroom coconut
+916 2335
+3 bean coconut banana
+1291 1079
+3 bean cabbage blueberry
+2901 2509
+3 onion strawberry apple
+1295 2031
+3 peach blueberry cabbage
+2459 2196
+3 blueberry mushroom cherry
+2782 705
+3 blueberry tomato peach
+2137 2685
+3 strawberry apple orange
+1515 2164
+3 lemon cherry apricot
+570 1907
+3 cabbage watermelon plum
+1630 358
+3 onion coconut grape
+910 535
+3 potato pear blueberry
+27 1542
+3 carrot watermelon bean
+103 2016
+3 carrot tomato apricot
+616 250
+3 grape strawberry mango
+1781 2420
+3 plum onion mango
+2496 428
+3 banana cabbage apple
+427 1629
+3 tomato grape peach
+2828 2709
+3 onion blueberry mushroom
+2948 2139
+3 cherry onion grape
+1435 462
+3 onion pepper coconut
+748 1978
+3 banana pear cherry
+484 2306
+3 apple cucumber mango
+2897 1642
+3 potato coconut grape
+1365 2479
+3 mango strawberry cabbage
+641 2692
+3 apple pear plum
+1887 2870
+3 cucumber tomato plum
+84 493
+3 orange pepper carrot
+2583 2132
+3 mango coconut strawberry
+2657 1483
+3 cabbage bean orange
+218 616
+3 apricot blueberry plum
+2177 2967
+3 bean apple potato
+2267 427
+3 bean peach coconut
+1485 32
+3 potato banana coconut
+68 95
+3 cucumber orange bean
+2757 1175
+3 pepper lemon cabbage
+749 1027
+3 cherry apricot pear
+2387 1645
+3 apricot pepper watermelon
+2887 2086
+3 banana plum cucumber
+1468 1404
+3 bean blueberry pumpkin
+2384 2508
+3 cucumber potato mango
+2451 1563
+3 blueberry mushroom strawberry
+2952 2327
+3 blueberry watermelon cherry
+131 2824
+3 orange cucumber peach
+1255 1270
+3 pumpkin onion blueberry
+1533 2552
+3 grape bean peach
+2175 875
+3 bean apricot cherry
+524 501
+3 lemon cucumber banana
+2584 1427
+3 apricot onion pumpkin
+1768 600
+3 peach mango carrot
